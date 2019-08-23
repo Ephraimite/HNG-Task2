@@ -1,6 +1,6 @@
 INSIGHT ABOUT THIS REPO
 
-This repository contains all HNG internship HTM Codes twitter Handles
+This repository contains all HNG internship HTML Codes twitter Handles
 And Lucid.blog post.
 this internship has been so insigtive and interesting. Thank you HNG
 
