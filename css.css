@@ -1,0 +1,96 @@
+.cv{
+    background: 2px;
+    height: 500px;
+    width: 700px;
+    border: solid;
+    border-radius: 15px;
+    background-color: #F8F8FF;
+    border-color:  #808080;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    }
+    .address{
+        text-align: center;
+    }
+.headingA{
+    background-color: #696969;
+    text-align: center;
+    -webkit-text-fill-color: #F8F8FF;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+    .headingB{
+        background-color:#696969;
+        text-align: center;
+        -webkit-text-fill-color: #F8F8FF;
+        margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    }
+    .headingC{
+        background-color: #696969;
+        -webkit-text-fill-color: #F8F8FF;
+        margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+      
+
+    }
+    .headingD{
+        background-color: #696969;
+        -webkit-text-fill-color: #F8F8FF;
+        margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+      
+
+    }
+    .headingE{
+        background-color: #696969;
+        -webkit-text-fill-color: #F8F8FF;
+        margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+        
+
+    }
+    .headingF{
+        background-color: #696969;
+        -webkit-text-fill-color: #F8F8FF;
+        margin-left: 10px;
+    margin-right: 10px;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+
+    }
+    .headingG{
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 2px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 20px;
+    }
+
