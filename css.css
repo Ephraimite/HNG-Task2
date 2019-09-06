@@ -54,10 +54,10 @@ h2{
     border-radius: 15px;
     text-align: center;
     width: 250px;
-    float: right;   
-    background: #0000CD;
+    float: right; 
+    color: #0000CD;
+   background: white;
     padding: 50px;
-    color: #FFFFFF;
     margin-top: 20px;
     margin-left: 50px;
 
@@ -82,7 +82,8 @@ h2{
     margin-bottom: 12px;
     padding: 15px;
     box-sizing: border-box;
-    background: #FFFFFF;
+    background: #F5F5F5;
+  
     border: 0;
     outline: none;
     border-radius: 10px;
